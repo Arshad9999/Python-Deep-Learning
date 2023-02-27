@@ -1,2 +1,3 @@
 # Deep-Learning
-Deep learning is the coolest thing in the world! It's like giving a computer a brain, except the computer is better than any human brain out there.
+Deep learning is the coolest thing in the world! It's like giving a computer a brain, except the computer is better than any human brain out there. It involves using artificial neural networks to analyze and learn from huge amounts of data, allowing the computer to recognize patterns and make decisions on its own. It's used in all sorts of amazing applications, like self-driving cars, robots, and even video games. With deep learning, we're taking the first steps towards creating a true artificial intelligence that can think and learn just like a human. It's like something out of a science fiction movie, and it's totally awesome!
+
