@@ -24,4 +24,5 @@ The code defines a class called NeuralNetwork_for_irisdataset, which contains me
 
 9. The trained neural network is tested on the testing set using the test_neuralnetwork method.
 
-10. Finally, a prediction is made on new input data (5.1, 3.5, 1.4, 0.2) using the predict method, and the predicted class label is printed.
+## Conclusion:
+Finally, a prediction is made on new input data (5.1, 3.5, 1.4, 0.2) using the predict method, and the predicted class label is printed.
