@@ -1,6 +1,6 @@
 <center><h1>Deep-Learning</h1></center>
 
-Deep learning is a subfield of machine learning that focuses on training artificial neural networks with multiple layers (hence the term "deep") to learn and make predictions or decisions based on complex patterns in the data. Deep learning has gained significant popularity and success in various domains, including computer vision, natural language processing, speech recognition, and many others.
+Deep learning is a subfield of machine learning that focuses on training artificial neural networks with multiple layers (hence the term "deep") to learn and make predictions or decisions based on complex patterns in the data. Deep learning has gained significant popularity and success in various domains, including computer vision, natural language processing, speech recognition, and many other.
 
 ## Types of Deep Learning:
 
