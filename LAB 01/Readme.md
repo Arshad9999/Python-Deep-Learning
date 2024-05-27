@@ -1,4 +1,4 @@
-Here's a breakdown of the code:
+Here's a breakdown of the code:-
 
 <b>threshold function:</b> This function applies the threshold activation function, returning 1 if the input is greater than 0, and 0 otherwise.
 
