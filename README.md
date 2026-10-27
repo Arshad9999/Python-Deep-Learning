@@ -1,18 +1,19 @@
 # Deep Learning Labs
 
-Learning notes and introductory neural-network exercises. LAB 01 implements binary XOR with fixed threshold neurons; LAB 02 trains a bipolar AND perceptron. Some later lab directories contain notes only, and LAB 03/code.py is empty.
+Learning notes and introductory neural-network exercises. LAB 01 implements binary XOR with fixed threshold neurons; LAB 02 trains a bipolar AND perceptron; LAB 03 implements a dependency-free multiclass network with forward propagation and backpropagation on explicitly synthetic data. LAB 04 is conceptual Iris-network material without an included implementation or dataset, and LAB 05–08 are topic placeholders.
 
 ## Contents and usage
 
-Use Python 3; the first two labs need no third-party packages.
+Use Python 3; the first three labs need no third-party packages or downloads.
 
 ```sh
 python3 "LAB 01/XORfunctionUsingMcCulloch-PittsNeuron.py"
 python3 "LAB 02/code.py"
+python3 "LAB 03/code.py"
 python3 -m unittest discover -s tests -v
 ```
 
-The checks cover complete truth tables, invalid inputs, convergence and a non-separable training case. Later lab notes are not presented as completed implementations.
+The checks cover complete truth tables, invalid inputs, convergence, a non-separable training case, multiclass probability normalization, backpropagation loss reduction, deterministic behavior and held-out classification. Remaining note-only labs are not presented as completed implementations.
 
 ## License
 
