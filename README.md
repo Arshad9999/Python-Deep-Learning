@@ -1,3 +1,19 @@
+# Deep Learning Labs
+
+Learning notes and partial Python implementations for introductory neural-network lab exercises. Some lab directories contain notes only, and LAB 03/code.py is empty.
+
+## Contents and usage
+
+Browse the `LAB 01` through `LAB 08` directories. LAB 01 and LAB 02 contain partial neural-network implementations. Their `split_data()` methods reference `train_test_split` without importing it, so syntax validity does not mean the exercises run end to end. Complete the missing imports, input-data examples, and training checks before treating the labs as working models.
+
+## License
+
+The repository includes a Apache-2.0 license. See the checked-in license file and retain existing attribution.
+
+---
+
+## Original learning material
+
 <center><h1>Deep-Learning</h1></center>
 
 Deep learning is a subfield of machine learning that focuses on training artificial neural networks with multiple layers (hence the term "deep") to learn and make predictions or decisions based on complex patterns in the data. Deep learning has gained significant popularity and success in various domains, including computer vision, natural language processing, speech recognition, and many other.
