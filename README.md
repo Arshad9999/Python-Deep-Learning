@@ -1,10 +1,18 @@
 # Deep Learning Labs
 
-Learning notes and partial Python implementations for introductory neural-network lab exercises. Some lab directories contain notes only, and LAB 03/code.py is empty.
+Learning notes and introductory neural-network exercises. LAB 01 implements binary XOR with fixed threshold neurons; LAB 02 trains a bipolar AND perceptron. Some later lab directories contain notes only, and LAB 03/code.py is empty.
 
 ## Contents and usage
 
-Browse the `LAB 01` through `LAB 08` directories. LAB 01 and LAB 02 contain partial neural-network implementations. Their `split_data()` methods reference `train_test_split` without importing it, so syntax validity does not mean the exercises run end to end. Complete the missing imports, input-data examples, and training checks before treating the labs as working models.
+Use Python 3; the first two labs need no third-party packages.
+
+```sh
+python3 "LAB 01/XORfunctionUsingMcCulloch-PittsNeuron.py"
+python3 "LAB 02/code.py"
+python3 -m unittest discover -s tests -v
+```
+
+The checks cover complete truth tables, invalid inputs, convergence and a non-separable training case. Later lab notes are not presented as completed implementations.
 
 ## License
 
